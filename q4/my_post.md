@@ -71,7 +71,7 @@ In the beginning, I initialized the weights randomly. My model’s predictions w
 
 Here’s the loss curve over 500 epochs. This visual made it *real*.
 
-![Loss curve over time](https://dummyimage.com/600x300/cccccc/000000&text=Loss+vs+Epoch)
+![Loss curve over time](loss_curve.png)
 
 *(You can generate this using matplotlib if you train your model.)*
 
